@@ -1,0 +1,17 @@
+{
+    "name": "sharmaji/jsonviewer",
+    "authors": [
+        {
+            "name": "p3multisolutions",
+            "email": "kanhaiya@p3multisolutions.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        
+        "psr-4": {
+            "Monolog\\": "src/",
+            "Sharmaji\\Jsonviewer\\": "app/"
+        }
+    }
+}
